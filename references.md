@@ -1,5 +1,4 @@
-# References
+
+# References - ITG
 
 * octocat 1 😈# References
-
-* octocat 1 😈
